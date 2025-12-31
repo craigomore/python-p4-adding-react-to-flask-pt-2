@@ -1,5 +1,10 @@
 # Adding React to Flask Part 2
 
+Note: this repository includes a working `server/app.py` and `Procfile.dev`.
+`server/app.py` implements a small Flask API (the `/movies` GET endpoint) and
+is ready to be used with the provided `server/seed.py` to populate the
+database. See the instructions below for how to run the app and seed data.
+
 ## Learning Goals
 
 - Use React and Flask together to build beautiful and powerful web applications.
